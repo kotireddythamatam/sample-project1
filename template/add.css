@@ -1,0 +1,42 @@
+#one{
+  background: red;
+  border-top: violet 2px dotted;
+  margin: 0 10px 0 0px;
+}
+#two{
+  background: green;
+  margin: 0 10px 0 10px;
+}
+#three{
+  background: orange;
+  border-radius: 5px;
+  margin: 0 10px 0 10px;
+}
+#four{
+  background: blue;
+  margin: 0 0 0 10px;
+
+}
+#five{
+  margin-bottom: 10px;
+}
+#six{
+  margin-bottom: 10px;
+}
+h1{
+  background: blue;
+  width: 80%;
+  text-align: center;
+  padding-right: 10px;
+}
+body{
+  border: 10px violet groove;
+  width: 30%;
+  height: 280px;
+  padding: 0px 0px 10px 30px;
+  background-image: url("https://4.imimg.com/data4/GR/YT/MY-3035061/green-chalk-board-500x500.jpg");
+  background-repeat:no-repeat;
+}
+.seven{
+  color: white;
+}
